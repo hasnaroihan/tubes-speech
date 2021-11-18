@@ -1,0 +1,51 @@
+AJI        [AJI]              aa jh ih
+APA        [APA]              aa p aa
+BAHU       [BAHU]             b aa hh uw
+BARANG     [BARANG]           b aa r aa ng
+BARU       [BARU]             b aa r uw
+BELAS	   [BELAS]            b eu l aa s
+DADU       [DADU]             d aa d uw
+DAGU       [DAGU]             d aa g uw
+DELAPAN	   [DELAPAN]          d eu l aa p aa n
+DUA	       [DUA]	          d uw aa
+EMPAT	   [EMPAT]            eu m p aa t
+ENAM	   [ENAM]             eu n aa m
+GARAM      [GARAM]            g aa r aa m
+GARANG     [GARANG]           g aa r aa ng
+GIGI       [GIGI]             g ih g ih
+GUNTING    [GUNTING]          g uw n t ih ng
+HUJAN      [HUJAN]            hh uw jh aa n
+IBU        [IBU]              ih b uw
+JADI       [JADI]             jh aa d ih
+JAGUNG     [JAGUNG]           jh aa g uw ng
+JATUH      [JATUH]            jh aa t uw hh
+KALUNG     [KALUNG]           k aa l uw ng
+KARUNG     [KARUNG]           k aa r uw ng
+KURANG	   [KURANG]	          k uw r aa ng
+LIMA	   [LIMA]             l ih m aa
+MAKAN      [MAKAN]            m aa k aa n
+MATI	   [MATI]             m aa t ih
+NAIK	   [NAIK]	          n aa ih k
+NYALA	   [NYALA]            ny aa l aa
+NYANYI     [NYANYI]           ny aa ny ih
+NYATU      [NYATU]            ny aa t uw
+PADA       [PADA]             p aa d aa
+PENITI     [PENITI]           p eu n ih t ih
+PINDAH	   [PINDAH]	          p ih n d aa hh
+PULUH	   [PULUH]            p uw l uw hh
+RAKUN      [RAKUN]            r aa k uw n
+RITA       [RITA]             r ih t aa
+SAMPING    [SAMPING]          s aa m p ih ng
+SATU	   [SATU]             s aa t uw
+SEBELAS	   [SEBELAS]          s eu b eu l aa s
+SEMBILAN   [SEMBILAN]         s eu m b ih l aa n
+SENT-END   []                 sil
+SENT-START []                 sil
+SEPULUH	   [SEPULUH]          s eu p uw l uw hh
+SUARA	   [SUARA]            s uw aa r aa
+TAMBAH	   [TAMBAH]	          t aa m b aa hh
+TANYA      [TANYA]            t aa ny aa
+TIGA	   [TIGA]             t ih g aa
+TUJUH	   [TUJUH]            t uw jh uw hh
+TURUN	   [TURUN]            t uw r uw n
+

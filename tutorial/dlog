@@ -1,0 +1,35 @@
+WARNING: no script file global.ded
+WARNING: no script file ../lexicon/IndoDictSendiri.txt.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+IndoDictSend        50         50         50         50
+        dict        50         50         50         50
+
+50 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. aa    :    51
+  2. jh    :     6
+  3. ih    :    17
+  4. p     :     9
+  5. b     :     8
+  6. hh    :     8
+  7. uw    :    25
+  8. r     :    10
+  9. ng    :     8
+ 10. eu    :     9
+ 11. l     :     9
+ 12. s     :     8
+ 13. d     :     8
+ 14. g     :     8
+ 15. n     :    11
+ 16. m     :     9
+ 17. t     :    13
+ 18. k     :     6
+ 19. ny    :     5
+ 20. sil   :     2
+
+Dictionary dict created

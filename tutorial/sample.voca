@@ -1,0 +1,42 @@
+% NS_B
+<s>        sil
+
+% NS_E
+</s>        sil
+
+%PEMBATAS
+SEPULUH     s eu p uw l uw hh
+SEBELAS     s eu b eu l aa s
+
+%ARAH
+NAIK    n aa ih k
+TURUN   t uw r uw n
+TAMBAH  t aa m b aa hh
+KURANG  k uw r aa ng
+
+%KONDISI
+NYALA   ny aa l aa
+MATI    m aa t ih
+
+%BELAS
+BELAS   b eu l aa s
+
+%PINDAH
+PINDAH  p ih n d aa hh
+
+%SATUAN
+SATU    s aa t uw
+DUA     d uw aa
+TIGA    t ih g aa
+EMPAT   eu m p aa t
+LIMA    l ih m aa
+ENAM    eu n aa m
+TUJUH   t uw jh uw hh
+DELAPAN     d eu l aa p aa n
+SEMBILAN    s eu m b ih l aa n
+
+%PULUH
+PULUH   p uw l uw hh
+
+%VOLUME
+SUARA s uw aa r aa
