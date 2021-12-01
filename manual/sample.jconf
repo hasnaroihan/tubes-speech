@@ -26,7 +26,7 @@
 -penalty2 20.0	    # word insertion penalty for grammar (pass2)
 -b2 200             # beam width on 2nd pass (#words)
 -sb 200.0		        # score beam envelope threshold
--n 2                # num of sentences to find
+-n 1                # num of sentences to find
 
 # you may need to adjust your "-lv" value to prevent the recognizer inadvertently 
 # recognizing non-speech sounds:
