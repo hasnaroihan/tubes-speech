@@ -5,7 +5,7 @@ HDMan -A -D -T 1 -m -w wlist -n monophones1 -i -l dlog dict ../lexicon/IndoDictS
 
 # Untuk ganti prompts dan mlf
 # Tambahkan file audio ke folder train/wav
-# Tambahkan prompt baru sesuai audio rekaman dengan format: */<nama_file_audio> <kalimat prompt>
+# Tambahkan prompt baru ke prompts.txt sesuai audio rekaman dengan format: */<nama_file_audio> <kalimat prompt>
 
 julia ../bin/prompts2mlf.jl prompts.txt words.mlf
 HLEd -A -D -T 1 -l * -d dict -i phones0.mlf mkphones0.led words.mlf
