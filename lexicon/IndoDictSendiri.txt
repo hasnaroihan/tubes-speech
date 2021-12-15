@@ -1,9 +1,11 @@
 AJI        [AJI]              aa jh ih
 APA        [APA]              aa p aa
 BAHU       [BAHU]             b aa hh uw
+BAIK       [BAIK]             b aa ih k
 BARANG     [BARANG]           b aa r aa ng
 BARU       [BARU]             b aa r uw
 BELAS	   [BELAS]            b eu l aa s
+BUAYA      [BUAYA]            b uw aa y aa
 DADU       [DADU]             d aa d uw
 DAGU       [DAGU]             d aa g uw
 DELAPAN	   [DELAPAN]          d eu l aa p aa n
@@ -18,7 +20,9 @@ HUJAN      [HUJAN]            hh uw jh aa n
 IBU        [IBU]              ih b uw
 JADI       [JADI]             jh aa d ih
 JAGUNG     [JAGUNG]           jh aa g uw ng
+JALAN      [JALAN]            jh aa l aa n
 JATUH      [JATUH]            jh aa t uw hh
+JUALAN     [JUALAN]           jh uw aa l aa n
 KALUNG     [KALUNG]           k aa l uw ng
 KARUNG     [KARUNG]           k aa r uw ng
 KURANG	   [KURANG]	          k uw r aa ng
@@ -33,6 +37,7 @@ PADA       [PADA]             p aa d aa
 PENITI     [PENITI]           p eu n ih t ih
 PINDAH	   [PINDAH]	          p ih n d aa hh
 PULUH	   [PULUH]            p uw l uw hh
+RAGA       [RAGA]             r aa g aa
 RAKUN      [RAKUN]            r aa k uw n
 RITA       [RITA]             r ih t aa
 SAMPING    [SAMPING]          s aa m p ih ng

@@ -3,33 +3,34 @@ WARNING: no script file ../lexicon/IndoDictSendiri.txt.ded
 Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
-IndoDictSend        50         50         50         50
-    dict-tri        50         50         50         50
+IndoDictSend        55         55         55         55
+    dict-tri        55         55         55         55
 
-50 words required, 0 missing
+55 words required, 0 missing
 
 New Phone Usage Counts
 ---------------------
-  1. aa    :    51
-  2. jh    :     6
-  3. ih    :    17
-  4. sp    :    48
+  1. aa    :    60
+  2. jh    :     8
+  3. ih    :    18
+  4. sp    :    53
   5. p     :     9
-  6. b     :     8
+  6. b     :    10
   7. hh    :     8
-  8. uw    :    25
-  9. r     :    10
- 10. ng    :     8
- 11. eu    :     9
- 12. l     :     9
- 13. s     :     8
- 14. d     :     8
- 15. g     :     8
- 16. n     :    11
- 17. m     :     9
- 18. t     :    13
- 19. k     :     6
- 20. ny    :     5
- 21. sil   :     2
+  8. uw    :    27
+  9. k     :     7
+ 10. r     :    11
+ 11. ng    :     8
+ 12. eu    :     9
+ 13. l     :    11
+ 14. s     :     8
+ 15. y     :     1
+ 16. d     :     8
+ 17. g     :     9
+ 18. n     :    13
+ 19. m     :     9
+ 20. t     :    13
+ 21. ny    :     5
+ 22. sil   :     2
 
 Dictionary dict-tri created
