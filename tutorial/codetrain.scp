@@ -118,6 +118,16 @@
 ../train/wav/sample_38_hasna.wav ../train/mfcc/sample_38_hasna.mfc
 ../train/wav/sample_39_hasna.wav ../train/mfcc/sample_39_hasna.mfc
 ../train/wav/sample_40_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_41_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_42_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_43_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_44_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_45_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_46_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_47_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_48_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_49_hasna.wav ../train/mfcc/sample_40_hasna.mfc
+../train/wav/sample_50_hasna.wav ../train/mfcc/sample_40_hasna.mfc
 ../train/wav/sample_1_amanda.wav ../train/mfcc/sample_1_amanda.mfc
 ../train/wav/sample_2_amanda.wav ../train/mfcc/sample_2_amanda.mfc
 ../train/wav/sample_3_amanda.wav ../train/mfcc/sample_3_amanda.mfc
