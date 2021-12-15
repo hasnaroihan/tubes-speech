@@ -1,9 +1,11 @@
 AJI             aa+jh aa-jh+ih jh-ih sp
 APA             aa+p aa-p+aa p-aa sp
 BAHU            b+aa b-aa+hh aa-hh+uw hh-uw sp
+BAIK            b+aa b-aa+ih aa-ih+k ih-k sp
 BARANG          b+aa b-aa+r aa-r+aa r-aa+ng aa-ng sp
 BARU            b+aa b-aa+r aa-r+uw r-uw sp
 BELAS           b+eu b-eu+l eu-l+aa l-aa+s aa-s sp
+BUAYA           b+uw b-uw+aa uw-aa+y aa-y+aa y-aa sp
 DADU            d+aa d-aa+d aa-d+uw d-uw sp
 DAGU            d+aa d-aa+g aa-g+uw g-uw sp
 DELAPAN         d+eu d-eu+l eu-l+aa l-aa+p aa-p+aa p-aa+n aa-n sp
@@ -18,7 +20,9 @@ HUJAN           hh+uw hh-uw+jh uw-jh+aa jh-aa+n aa-n sp
 IBU             ih+b ih-b+uw b-uw sp
 JADI            jh+aa jh-aa+d aa-d+ih d-ih sp
 JAGUNG          jh+aa jh-aa+g aa-g+uw g-uw+ng uw-ng sp
+JALAN           jh+aa jh-aa+l aa-l+aa l-aa+n aa-n sp
 JATUH           jh+aa jh-aa+t aa-t+uw t-uw+hh uw-hh sp
+JUALAN          jh+uw jh-uw+aa uw-aa+l aa-l+aa l-aa+n aa-n sp
 KALUNG          k+aa k-aa+l aa-l+uw l-uw+ng uw-ng sp
 KARUNG          k+aa k-aa+r aa-r+uw r-uw+ng uw-ng sp
 KURANG          k+uw k-uw+r uw-r+aa r-aa+ng aa-ng sp
@@ -33,6 +37,7 @@ PADA            p+aa p-aa+d aa-d+aa d-aa sp
 PENITI          p+eu p-eu+n eu-n+ih n-ih+t ih-t+ih t-ih sp
 PINDAH          p+ih p-ih+n ih-n+d n-d+aa d-aa+hh aa-hh sp
 PULUH           p+uw p-uw+l uw-l+uw l-uw+hh uw-hh sp
+RAGA            r+aa r-aa+g aa-g+aa g-aa sp
 RAKUN           r+aa r-aa+k aa-k+uw k-uw+n uw-n sp
 RITA            r+ih r-ih+t ih-t+aa t-aa sp
 SAMPING         s+aa s-aa+m aa-m+p m-p+ih p-ih+ng ih-ng sp
