@@ -1,0 +1,3 @@
+$satuan = SATU | DUA | TIGA | EMPAT | LIMA | ENAM | TUJUH | DELAPAN | SEMBILAN;
+$pembatas = SEPULUH | SEBELAS;
+( SENT-START (PINDAH $satuan | PINDAH $satuan BELAS | PINDAH $pembatas | PINDAH $satuan PULUH | PINDAH $satuan PULUH $satuan | SUARA (NAIK|TURUN|TAMBAH|KURANG) |  NYALA | MATI ) SENT-END )
